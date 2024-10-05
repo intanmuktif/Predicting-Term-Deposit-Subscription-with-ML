@@ -1,0 +1,4 @@
+URL Dataset Bank Telemarketing : 
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+URL Deployment Subscribe Term Deposit Prediction: https://huggingface.co/spaces/intanmuktif/SubscribeTermDepositPrediction

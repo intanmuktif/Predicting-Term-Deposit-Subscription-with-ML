@@ -1,0 +1,6 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,campaign,previous,poutcome
+52,unemployed,married,secondary,no,0,no,no,cellular,16,jun,7,0,not contacted before
+36,management,married,tertiary,no,1235,no,no,cellular,25,aug,6,0,not contacted before
+41,technician,married,secondary,no,1270,yes,no,cellular,5,may,1,0,not contacted before
+38,blue-collar,married,primary,no,5643,yes,no,cellular,18,may,2,1,failure
+47,services,married,secondary,no,795,yes,no,cellular,29,may,3,0,not contacted before
