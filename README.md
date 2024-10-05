@@ -1,1 +1,2 @@
-# Predicting-Term-Deposit-Subscription-with-ML
+# Predicting Term Deposit Subscription with ML
+The goal of this project is to enhance the efficiency of the bank's marketing campaigns by focusing on customers with high potential to subscribe to term deposits. This will be achieved by developing a machine learning-based predictive model capable of reaching at least 70% accuracy in predicting whether a customer will subscribe to a term deposit. The model is expected to be developed and implemented within six months, allowing the bank to use the results for more effective marketing campaigns in the future.
